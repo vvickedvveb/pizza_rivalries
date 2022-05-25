@@ -1,0 +1,42 @@
+Papa & Dominos
+==============
+- Break down methods, make as generic as possible
+- Convert date to date format ???
+- Intro: brief intro of company: socials, founder, year etc...
+- HTML --------------
+- Describe
+- Fix sizes
+- Add comments -----------------
+- Group by year / Month ------------------------------ DONE
+- Growth %
+- By month ------------------------------------------- DONE
+- Compare normal to covid years --------------
+- max close by year
+- Candle stick
+- Clean out comments
+
+
+
+Papa X Dominos
+==============
+- Create date ranges
+- Compare 1st year public
+
+
+Scikit
+======
+- Predict future price
+
+
+Tools
+=====
+- Quotes scraper
+- Scrape News
+- Twitter
+- yfinance
+- quandle
+
+
+Capstone
+========
+Django REST API / React/TypeScript

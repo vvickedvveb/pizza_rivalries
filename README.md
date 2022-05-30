@@ -19,7 +19,6 @@ I actually would ❤️ &nbsp;feedback. If you have anything to recommend critic
 - Front-end web presentation in HTML, CSS, and JavScript possibly with React
 - Continued analysis
 
-
 # Installs 💾
 ---
 Add `nbimporter` to place your classes and functions in an external file and include/instantiate.
@@ -28,3 +27,6 @@ Add `nbimporter` to place your classes and functions in an external file and inc
 pip install nbimporter
 ```
 **Note:** Whenever I make changes to `classes/MyStock.ipynb` I need to restart the kernal.
+
+# `tools/` dir
+Script to get stock quote data from Yahoo Finance website.

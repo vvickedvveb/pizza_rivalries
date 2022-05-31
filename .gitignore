@@ -3,6 +3,8 @@
 classes/.ipynb_checkpoints
 classes/*/.ipynb_checkpoints/*
 
+images/._*
+
 Dominos.ipynb
 my_funcs.ipynb
 PapaJohns-Copy1.ipynb

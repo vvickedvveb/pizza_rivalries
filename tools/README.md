@@ -4,7 +4,7 @@ This folder contains scripts to get stock quote data
 ## Install
 ```shell
 # Setup your envirionment
-python3 venv -m tools
+python3 -m venv tools
 cd tools
 source bin/activate
 

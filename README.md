@@ -28,5 +28,8 @@ pip install nbimporter
 ```
 **Note:** Whenever I make changes to `classes/MyStock.ipynb` I need to restart the kernal.
 
-# `tools/` dir
+### `tools/` dir
 Script to get stock quote data from Yahoo Finance website.
+
+### `sql/` dir
+ipython-sql and SQLite data loaded into notebook.

@@ -6,6 +6,15 @@ import requests
 import csv
 
 """
+*** IMPORTANT LEGAL DISCLAIMER [Taken from yfinance] ***
+Yahoo!, Y!Finance, and Yahoo! finance are registered trademarks of Yahoo, Inc.
+
+This script is not affiliated, endorsed, or vetted by Yahoo, Inc. It's an open-source tool that uses Yahoo's publicly available APIs, and is intended for research and educational purposes.
+
+You should refer to Yahoo!'s terms of use for details on your rights to use the actual data downloaded. Remember - the Yahoo! finance API is intended for personal use only.
+
+---
+
 Scrape quotes from Yahoo Finance (CA) site and write daily price rows to CSV.
 Note: Since I live in Canada Yahoo! Finance redirects to CA site (ca.finance.yahoo.com).
 

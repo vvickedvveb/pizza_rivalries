@@ -13,3 +13,5 @@ data/stock_quotes_bak.csv
 
 sql/._*
 sql/SQLAlchemy.ipynb
+sq/.ipynb_checkpoints
+sql/*/.ipynb_checkpoints/*

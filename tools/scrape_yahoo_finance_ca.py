@@ -32,8 +32,8 @@ def get_epoch(date_string):
 
 # Add your info below...
 TICKER = 'PZZA'
-START_DATE = get_epoch('01/01/2000')
-END_DATE = get_epoch('02/01/2000')
+START_DATE = get_epoch('06/07/1993')
+END_DATE = get_epoch('06/01/2022')
 
 
 def main():

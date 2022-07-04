@@ -10,3 +10,6 @@ PapaJohns-Copy1.ipynb
 practice.ipynb
 TODO.txt
 data/stock_quotes_bak.csv
+
+sql/._*
+sql/SQLAlchemy.ipynb
